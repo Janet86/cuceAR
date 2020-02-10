@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/debian/.gradle/caches/transforms-2/files-2.1/9fab3357e5036e985c4fd5bc26a7d15c/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

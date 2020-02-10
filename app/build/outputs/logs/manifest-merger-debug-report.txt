@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-52:12
+MERGED from [com.android.support:design:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/70526bb037570fccbc5479875ece2ae6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/9fab3357e5036e985c4fd5bc26a7d15c/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/044315354f481099cf165b52fd9b23d2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/f55dc313730b45cdb1194003b14a0d52/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/fd06652974554ca4465cdf81c2fb5e32/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/4736a2e6c185c0a343a9739375bb794b/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/de69a5bb0a5e71cc07fafe3ce82920e4/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/ea8cc858b52f739ddf1bf99d8e013226/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/059aa1c44a9ccbd52332e4251ad9486d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/f09b688e92e299edf6aa40c20c0d5cc8/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/d8a5ba3a8b2f0b8318a655d8627146c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/13088a5766050dc60d6b7071dae75877/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/fac329c65fcd338c58d7a2a8720d067d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/cd0e377994cf0c6bf7bb41f608244d18/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-compat:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/b87b584ea99608301a149d93aad797f7/AndroidManifest.xml:17:1-27:12
+INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:8:22-62
+application
+ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:10:5-50:19
+MERGED from [com.android.support:design:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/70526bb037570fccbc5479875ece2ae6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/70526bb037570fccbc5479875ece2ae6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/9fab3357e5036e985c4fd5bc26a7d15c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/9fab3357e5036e985c4fd5bc26a7d15c/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/044315354f481099cf165b52fd9b23d2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/044315354f481099cf165b52fd9b23d2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/f55dc313730b45cdb1194003b14a0d52/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/f55dc313730b45cdb1194003b14a0d52/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/fd06652974554ca4465cdf81c2fb5e32/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/fd06652974554ca4465cdf81c2fb5e32/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/4736a2e6c185c0a343a9739375bb794b/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/4736a2e6c185c0a343a9739375bb794b/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/de69a5bb0a5e71cc07fafe3ce82920e4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/de69a5bb0a5e71cc07fafe3ce82920e4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/ea8cc858b52f739ddf1bf99d8e013226/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/ea8cc858b52f739ddf1bf99d8e013226/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/059aa1c44a9ccbd52332e4251ad9486d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/059aa1c44a9ccbd52332e4251ad9486d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/f09b688e92e299edf6aa40c20c0d5cc8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/f09b688e92e299edf6aa40c20c0d5cc8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/13088a5766050dc60d6b7071dae75877/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/13088a5766050dc60d6b7071dae75877/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/fac329c65fcd338c58d7a2a8720d067d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/fac329c65fcd338c58d7a2a8720d067d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/cd0e377994cf0c6bf7bb41f608244d18/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/cd0e377994cf0c6bf7bb41f608244d18/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/b87b584ea99608301a149d93aad797f7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/b87b584ea99608301a149d93aad797f7/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:15:9-40
+	android:hardwareAccelerated
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:14:9-44
+	android:allowBackup
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:17:9-47
+activity#com.google.android.gms.samples.vision.ocrreader.ScrollingActivity
+ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:18:9-21:63
+	android:label
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:20:13-61
+	android:theme
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:21:13-51
+	android:name
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:19:13-46
+activity#com.google.android.gms.samples.vision.ocrreader.MainActivityLogo
+ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:22:9-32:20
+	android:label
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:25:13-35
+	android:configChanges
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:24:13-74
+	android:theme
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:26:13-51
+	android:name
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:23:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:30:27-74
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:34:9-36:35
+	android:value
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:36:13-32
+	android:name
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:35:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.MainActivity
+ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:38:9-46:20
+	android:label
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:39:13-41
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:47:9-49:41
+	android:label
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:49:13-38
+	android:name
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:48:13-47
+uses-sdk
+INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/70526bb037570fccbc5479875ece2ae6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/70526bb037570fccbc5479875ece2ae6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/9fab3357e5036e985c4fd5bc26a7d15c/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/9fab3357e5036e985c4fd5bc26a7d15c/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/044315354f481099cf165b52fd9b23d2/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/044315354f481099cf165b52fd9b23d2/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/f55dc313730b45cdb1194003b14a0d52/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/f55dc313730b45cdb1194003b14a0d52/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/fd06652974554ca4465cdf81c2fb5e32/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/fd06652974554ca4465cdf81c2fb5e32/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/4736a2e6c185c0a343a9739375bb794b/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/4736a2e6c185c0a343a9739375bb794b/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/de69a5bb0a5e71cc07fafe3ce82920e4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/de69a5bb0a5e71cc07fafe3ce82920e4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/ea8cc858b52f739ddf1bf99d8e013226/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/ea8cc858b52f739ddf1bf99d8e013226/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/059aa1c44a9ccbd52332e4251ad9486d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/059aa1c44a9ccbd52332e4251ad9486d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/f09b688e92e299edf6aa40c20c0d5cc8/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/f09b688e92e299edf6aa40c20c0d5cc8/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/d8a5ba3a8b2f0b8318a655d8627146c2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/d8a5ba3a8b2f0b8318a655d8627146c2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/13088a5766050dc60d6b7071dae75877/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/13088a5766050dc60d6b7071dae75877/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/fac329c65fcd338c58d7a2a8720d067d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/fac329c65fcd338c58d7a2a8720d067d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/cd0e377994cf0c6bf7bb41f608244d18/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/cd0e377994cf0c6bf7bb41f608244d18/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/b87b584ea99608301a149d93aad797f7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/b87b584ea99608301a149d93aad797f7/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] /home/debian/.gradle/caches/transforms-2/files-2.1/9fab3357e5036e985c4fd5bc26a7d15c/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+		ADDED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/f55dc313730b45cdb1194003b14a0d52/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/f55dc313730b45cdb1194003b14a0d52/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/f55dc313730b45cdb1194003b14a0d52/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/f55dc313730b45cdb1194003b14a0d52/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/4736a2e6c185c0a343a9739375bb794b/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/4736a2e6c185c0a343a9739375bb794b/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /home/debian/.gradle/caches/transforms-2/files-2.1/4736a2e6c185c0a343a9739375bb794b/AndroidManifest.xml:22:13-58

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".ScrollingActivity" android:background="#F5F5F5"
+    tools:showIn="@layout/activity_scrolling">
+    <LinearLayout
+        android:layout_width="match_parent" android:orientation="vertical"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent" android:id="@+id/instruments"
+        android:layout_height="100dp" android:orientation="horizontal">
+        <View
+            android:layout_width="10dp"
+            android:layout_height="match_parent" android:background="#00e68a"/>
+        <ImageView
+            android:layout_width="90dp" android:layout_marginLeft="10dp" android:layout_marginTop="5dp"
+            android:layout_height="90dp" android:src="@drawable/iconoinstrumentos"
+            android:scaleType="fitCenter"/>
+        <TextView
+            android:layout_width="match_parent" android:layout_marginLeft="10dp"
+            android:layout_height="match_parent" android:layout_gravity="center_horizontal"
+            android:gravity="center_vertical" android:textStyle="bold"
+            android:text="Instrumentos" android:textSize="30sp" android:textColor="#00e68a"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent" android:id="@+id/media"
+        android:layout_height="100dp" android:orientation="horizontal">
+        <View
+            android:layout_width="10dp"
+            android:layout_height="match_parent" android:background="#ff4d4d"/>
+        <ImageView
+            android:layout_width="90dp" android:layout_marginLeft="10dp"
+            android:layout_height="90dp" android:src="@drawable/iconomedios"
+            android:scaleType="fitCenter"/>
+        <TextView
+            android:layout_width="match_parent" android:layout_marginLeft="10dp"
+            android:layout_height="match_parent" android:layout_gravity="center_horizontal"
+            android:gravity="center_vertical" android:textStyle="bold"
+            android:text="Medios de TX" android:textSize="30sp" android:textColor="#ff4d4d"/>
+
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent" android:id="@+id/circuit"
+            android:layout_height="100dp" android:orientation="horizontal">
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent" android:background="#66a3ff"/>
+            <ImageView
+                android:layout_width="90dp" android:layout_marginLeft="10dp"
+                android:layout_height="90dp" android:src="@drawable/iconocircuit"
+                android:scaleType="fitCenter"/>
+            <TextView
+                android:layout_width="match_parent" android:layout_marginLeft="10dp"
+                android:layout_height="match_parent" android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical" android:textStyle="bold"
+                android:text="Circuitos" android:textSize="30sp" android:textColor="#66a3ff"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent" android:id="@+id/assembling"
+            android:layout_height="100dp" android:orientation="horizontal">
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent" android:background="#e6b3cc"/>
+            <ImageView
+                android:layout_width="90dp" android:layout_marginLeft="10dp"
+                android:layout_height="90dp" android:src="@drawable/iconoassembling"
+                android:scaleType="fitCenter"/>
+            <TextView
+                android:layout_width="match_parent" android:layout_marginLeft="10dp"
+                android:layout_height="match_parent" android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical" android:textStyle="bold"
+                android:text="Montaje y ensamblado" android:textSize="30sp" android:textColor="#e6b3cc"/>
+
+        </LinearLayout>
+        <!--<LinearLayout
+            android:layout_width="match_parent" android:id="@+id/geografia"
+            android:layout_height="100dp" android:orientation="horizontal">
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent" android:background="#000000"/>
+            <ImageView
+                android:layout_width="90dp" android:layout_marginLeft="10dp"
+                android:layout_height="90dp" android:src="@drawable/geography"
+                android:scaleType="fitCenter"/>
+            <TextView
+                android:layout_width="match_parent" android:layout_marginLeft="10dp"
+                android:layout_height="match_parent" android:layout_gravity="center_horizontal"
+                android:gravity="center_vertical" android:textStyle="bold"
+                android:text="Telefonía" android:textSize="30sp" android:textColor="#000000"/>
+
+        </LinearLayout>-->
+    <!--<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:text="@string/large_text" />-->
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

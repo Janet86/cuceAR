@@ -1,0 +1,100 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/res/values-w820dp/attrs.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "277",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "482"
+                    },
+                    "to": {
+                        "startLines": "126",
+                        "startColumns": "4",
+                        "startOffsets": "8072",
+                        "endLines": "129",
+                        "endColumns": "24",
+                        "endOffsets": "8275"
+                    }
+                },
+                {
+                    "source": "/home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/res/values-w820dp/colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "49",
+                        "endOffsets": "62"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                },
+                {
+                    "source": "/home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/res/values-w820dp/strings.xml",
+                    "from": {
+                        "startLines": "108,9,16,17,19,5,4,13,12,7,11,2,3,8,6,15,18,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7000,659,1013,1067,1195,347,190,877,820,525,757,55,89,609,457,943,1124,709",
+                        "endLines": "108,9,16,17,107,5,4,13,12,7,11,2,3,8,6,15,18,10",
+                        "endColumns": "52,49,53,56,13,109,156,64,56,83,62,33,100,49,67,69,70,47",
+                        "endOffsets": "7048,704,1062,1119,6995,452,342,937,872,604,815,84,185,654,520,1008,1190,752"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,97,98,99,100,101,102,103,104,105,106,107,108,109",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "163,216,266,320,377,6182,6292,6449,6514,6571,6645,6708,6742,6843,6893,6961,7031,7102",
+                        "endLines": "4,5,6,7,96,97,98,99,100,101,102,103,104,105,106,107,108,109",
+                        "endColumns": "52,49,53,56,13,109,156,64,56,73,62,33,100,49,67,69,70,47",
+                        "endOffsets": "211,261,315,372,6177,6287,6444,6509,6566,6640,6703,6737,6838,6888,6956,7026,7097,7145"
+                    }
+                },
+                {
+                    "source": "/home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/res/values-w820dp/styles.xml",
+                    "from": {
+                        "startLines": "19,10,2,14,21",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "790,461,17,623,873",
+                        "endLines": "19,12,8,17,21",
+                        "endColumns": "81,12,12,12,71",
+                        "endOffsets": "867,617,455,784,940"
+                    },
+                    "to": {
+                        "startLines": "110,111,114,121,125",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "7150,7231,7392,7835,8001",
+                        "endLines": "110,113,120,124,125",
+                        "endColumns": "80,12,12,12,70",
+                        "endOffsets": "7226,7387,7830,7996,8067"
+                    }
+                },
+                {
+                    "source": "/home/debian/Documents/JanetARV2/android-vision-master/visionSamples/ocr-reader/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endColumns": "57",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "57",
+                        "endOffsets": "158"
+                    }
+                }
+            ]
+        }
+    ]
+}

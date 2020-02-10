@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/topLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" android:orientation="horizontal"
+        android:keepScreenOn="true">
+
+        <com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSourcePreview
+            android:id="@+id/preview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.google.android.gms.samples.vision.ocrreader.ui.camera.GraphicOverlay
+                android:id="@+id/graphicOverlay"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+
+
+        </com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSourcePreview>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom|center" android:id="@+id/dialoginformation"
+        android:orientation="vertical" android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="400px" android:layout_margin="15dp"
+            android:background="@drawable/corner" android:orientation="horizontal"
+            android:weightSum="1">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent" android:layout_weight="0.3"
+                >
+                <ImageView
+                    android:layout_width="350px"
+                    android:layout_height="350px"
+                    android:scaleType="fitCenter" android:id="@+id/image"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent" android:layout_weight="0.65"
+                android:orientation="vertical" android:weightSum="1" >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp" android:layout_weight="0.15" android:textStyle="bold"
+                    android:id="@+id/title" android:textColor="#f5be41"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp" android:textStyle="bold" android:ellipsize="end"
+                    android:id="@+id/description" android:layout_weight="0.65" android:textColor="#000000" />
+                <TextView
+                    android:layout_width="match_parent"
+
+                    android:text="Saber más..." android:layout_weight="0.15"
+                    android:layout_height="0dp" android:textStyle="italic"
+                    android:id="@+id/knowmore" android:textColor="#31a9b8"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
+<!--<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/topLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keepScreenOn="true">
+
+    <com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSourcePreview
+        android:id="@+id/preview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.gms.samples.vision.ocrreader.ui.camera.GraphicOverlay
+            android:id="@+id/graphicOverlay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSourcePreview>
+
+</LinearLayout>
+-->
